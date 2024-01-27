@@ -63,4 +63,4 @@ jobs:
           app-name: 'petstat'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B30CAC94A2684446B35A8E97E7E5CB78 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_26B9501A3F51494391894DF08CC63880 }}
