@@ -1,7 +1,7 @@
 <?php
-$servername = "tcp:petstat.database.windows.net,1433";
-$username = "van";
-$password = "As@dawe123";
+$servername = "petstat-server.mysql.database.azure.com";
+$username = "uauvivdpud";
+$password = "74KQB1484N202EIS$";
 $dbname = "petstatvan";
 
 // Create connection
