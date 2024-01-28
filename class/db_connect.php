@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "tcp:petstat.database.windows.net,1433";
+$username = "van";
+$password = "As@dawe123";
 $dbname = "petstatvan";
 
 // Create connection
